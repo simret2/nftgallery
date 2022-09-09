@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import Gallery from "../components/gallery";
+import Gallery from "../components/Gallery";
 
 const Home = () => {
   const [wallet, setWalletAddress] = useState("");
